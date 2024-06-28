@@ -1,5 +1,3 @@
-# Descrição das colunas do Dataset.
-
 - Age (Idade): Idade dos funcionários.
 - Attrition (Rotatividade): Indica se o funcionário deixou a empresa ("Yes" para sim, "No" para não).
 - BusinessTravel (Viagem a Trabalho): Frequência com que o funcionário viaja a trabalho (por exemplo, "Travel_Rarely", "Travel_Frequently").
