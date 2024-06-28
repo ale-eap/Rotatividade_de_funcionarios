@@ -1,0 +1,37 @@
+Descrição das colunas do Dataset.
+
+- Age (Idade): Idade dos funcionários.
+- Attrition (Rotatividade): Indica se o funcionário deixou a empresa ("Yes" para sim, "No" para não).
+- BusinessTravel (Viagem a Trabalho): Frequência com que o funcionário viaja a trabalho (por exemplo, "Travel_Rarely", "Travel_Frequently").
+- DailyRate (Taxa Diária): Valor diário recebido pelo funcionário.
+- Department (Departamento): Departamento no qual o funcionário trabalha (por exemplo, "Sales", "Research & Development").
+- DistanceFromHome (Distância de Casa): Distância em milhas entre a casa do funcionário e o local de trabalho.
+- Education (Educação): Nível de educação do funcionário (escala de 1 a 5).
+- EducationField (Campo de Educação): Área de estudo do funcionário (por exemplo, "Life Sciences", "Medical").
+- EmployeeCount (Contagem de Funcionários): Número total de funcionários (constante em 1 para cada registro).
+- EmployeeNumber (Número do Funcionário): Identificador único para cada funcionário.
+- EnvironmentSatisfaction (Satisfação no Ambiente de Trabalho): Satisfação do funcionário com o ambiente de trabalho (escala de 1 a 4).
+- Gender (Gênero): Gênero do funcionário.
+- HourlyRate (Taxa Horária): Valor recebido por hora de trabalho.
+- JobInvolvement (Envolvimento no Trabalho): Grau de envolvimento do funcionário no trabalho (escala de 1 a 4).
+- JobLevel (Nível de Cargo): Nível do cargo ocupado pelo funcionário.
+- JobRole (Função): Função específica desempenhada pelo funcionário (por exemplo, "Sales Executive", "Research Scientist").
+- JobSatisfaction (Satisfação no Trabalho): Satisfação do funcionário com seu trabalho (escala de 1 a 4).
+- MaritalStatus (Estado Civil): Estado civil do funcionário (por exemplo, "Single", "Married").
+- MonthlyIncome (Renda Mensal): Renda mensal recebida pelo funcionário.
+- MonthlyRate (Taxa Mensal): Taxa mensal aplicada ao funcionário.
+- NumCompaniesWorked (Número de Empresas Trabalhadas): Número de empresas pelas quais o funcionário já trabalhou.
+- Over18 (Maior de 18 Anos): Indica se o funcionário é maior de 18 anos (constante em "Yes").
+- OverTime (Horas Extras): Indica se o funcionário faz horas extras ("Yes" ou "No").
+- PercentSalaryHike (Aumento Percentual do Salário): Percentual de aumento salarial do funcionário.
+- PerformanceRating (Avaliação de Desempenho): Avaliação de desempenho do funcionário (escala de 1 a 4).
+- RelationshipSatisfaction (Satisfação no Relacionamento): Satisfação do funcionário com seus relacionamentos no trabalho (escala de 1 a 4).
+- StandardHours (Horas Padrão): Horas padrão de trabalho (constante em 80 para cada registro).
+- StockOptionLevel (Nível de Opção de Ações): Nível de opções de ações disponíveis para o funcionário (escala de 0 a 3).
+- TotalWorkingYears (Anos Totais de Trabalho): Total de anos de experiência de trabalho do funcionário.
+- TrainingTimesLastYear (Tempos de Treinamento no Último Ano): Número de vezes que o funcionário recebeu treinamento no último ano.
+- WorkLifeBalance (Equilíbrio entre Vida Pessoal e Profissional): Grau de equilíbrio entre vida pessoal e profissional do funcionário (escala de 1 a 4).
+- YearsAtCompany (Anos na Empresa): Número de anos que o funcionário trabalhou na empresa.
+- YearsInCurrentRole (Anos no Cargo Atual): Número de anos que o funcionário está no cargo atual.
+- YearsSinceLastPromotion (Anos Desde a Última Promoção): Número de anos desde a última promoção do funcionário.
+- YearsWithCurrManager (Anos com o Atual Gerente): Número de anos que o funcionário trabalhou com o atual gerente.
