@@ -1,5 +1,4 @@
-# ALEXANDRE_PAULINO_DDF_TECH_062024
-Case técnico para processo seletivo de Data Sciece da Dadosfera.
+Case técnico desenvolvido para processo seletivo de Solutions Engineer - Data Science, da Dadosfera.
 
 Neste case utilizaremos o dataset "IBM HR Analytics Employee Attrition & Performance", avaliando o desgaste de funcionários da IBM.
 
