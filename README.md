@@ -1,4 +1,4 @@
-Case técnico desenvolvido para o processo seletivo de Enngenheiro de Soluções - Cientista de Dados, da Dadosfera.
+Case técnico desenvolvido para o processo seletivo de Engenheiro de Soluções - Cientista de Dados, da Dadosfera.
 
 Neste case utilizaremos o dataset "IBM HR Analytics Employee Attrition & Performance", avaliando o desgaste de funcionários da IBM.
 
